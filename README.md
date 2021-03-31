@@ -48,3 +48,13 @@ In task2 c), Bengali word embedding model is trained.
 
 
 
+## Model Description:
+1. modelnew.pt: Hindi word embedding model (saved from Task1)
+
+2. model_hindi_bengalidata.pt: Sentiment Analysis model trained on both Hindi and Bengali data (saved from Task2d)
+
+3. model_bengalidata.pt: Sentiment Analysis model trained on only Bengali data using Bengali word embedding model (saved from Task2d)
+
+4. final_model_hindi.pt: Sentiment Analysis model trained on Hindi data (saved from Task3)
+
+5. final_model_bengali.pt: Sentiment Analysis model trained on bengali data (saved from Task3)
